@@ -23,4 +23,5 @@
 
 ![P)DCXRQQLTLW1YFMW{MB_06](https://user-images.githubusercontent.com/82752641/162928229-3a89145f-e388-4953-9391-c6c7673d86ed.jpg)
 
-你知道我想说什么
+### 大事纪
+罕见的一天：DDV和cyx在同一天都说话了，两年难得一遇
