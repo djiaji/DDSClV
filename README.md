@@ -24,6 +24,10 @@
 ![P)DCXRQQLTLW1YFMW{MB_06](https://user-images.githubusercontent.com/82752641/162928229-3a89145f-e388-4953-9391-c6c7673d86ed.jpg)
 
 ### 大事纪
-罕见的一天：DDV和cyx在同一天都说话了，两年难得一遇
+- 罕见的一天：DDV和cyx在同一天都说话了，两年难得一遇
 
-更罕见的是在中考前一个周，2022/6/12，mq竟然发言了！
+- 更罕见的是在中考前一个周，2022/6/12，mq竟然发言了！
+
+- 2022/6/30 发现了神奇api https://pixiv-api.vercel.app/api 不过太涩了，不敢用Markdown放这里
+
+- 2022/7/1 新成员 154***391 QQ号随机打码 （下次可以写一个只有群成员知道的hash）
